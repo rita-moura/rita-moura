@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Rita Moura 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
   <a href="https://github.com/rita-moura">
