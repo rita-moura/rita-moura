@@ -1,5 +1,5 @@
 ## Olá eu sou a Rita!!! 😁
-
+Estudante de desenvolvimento web na Trybe
  <div>
   <a href="https://github.com/rita-moura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rita-moura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
