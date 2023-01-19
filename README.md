@@ -1,4 +1,4 @@
-### Olá eu sou a Rita!!! 😁
+# Olá eu sou a Rita!!! 😁
 ## Estudante de desenvolvimento web na Trybe 
  <div>
   <a href="https://github.com/rita-moura">
