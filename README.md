@@ -2,7 +2,7 @@
 ## Desenvolvedora de software em construção 
  <div>
   <a href="https://github.com/rita-moura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rita-moura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rita-moura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita-moura&layout=compact&langs_count=6&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
