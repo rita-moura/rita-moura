@@ -1,4 +1,4 @@
-# Olá, eu sou a Rita 😁
+# Olá, eu sou a Rita 😊
 ## Desenvolvedora Back-End
 
 <div>
