@@ -1,16 +1,22 @@
 # Olá, eu sou a Rita 😁
-
 ## Desenvolvedora Back-End
 
+<div>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+</div>
 Sou apaixonada por tecnologia e desenvolvimento de soluções eficientes. Tenho experiência em desenvolvimento back-end com Node.js, e gosto de trabalhar com diferentes tecnologias e ferramentas para criar aplicações robustas e escaláveis.
+
+## 🕰️ Minha Trajetória
+
+- **2023** - Desenvolvedora Back-End na Tizza Tecnologia
+- **2023** - Concluí curso de Desenvolvimento Full-Stack na Trybe
+- **2022** - Iniciei o curso de Desenvolvimento Full-Stack na Trybe
 
 ### ⚡ GitHub Stats
  <div>
   <a href="https://github.com/rita-moura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rita-moura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita-moura&layout=compact&langs_count=6&theme=radical"/>
 </div>
-
 
 ### 🛠️ Tecnologias e Ferramentas
 <div style="display: inline_block">
