@@ -9,7 +9,7 @@ Sou apaixonada por tecnologia e desenvolvimento de soluções eficientes. Tenho 
 ## 🕰️ Minha Trajetória
 
 - **2023** - Desenvolvedora Back-End na Tizza Tecnologia
-- **2023** - Concluí curso de Desenvolvimento Full-Stack na Trybe
+- **2023** - Concluí o curso de Desenvolvimento Full-Stack na Trybe
 - **2022** - Iniciei o curso de Desenvolvimento Full-Stack na Trybe
 
 ### ⚡ GitHub Stats
