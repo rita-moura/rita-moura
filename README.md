@@ -1,47 +1,52 @@
-# Olá, eu sou a Rita 😊
-## Desenvolvedora Back-End
+# 👋 Olá, eu sou a Rita! 🐾
 
-Sou apaixonada por tecnologia e desenvolvimento de soluções eficientes. Tenho experiência em desenvolvimento back-end com Node.js, e gosto de trabalhar com diferentes tecnologias e ferramentas para criar aplicações robustas e escaláveis.
+Sou uma **Desenvolvedora Back-End** apaixonada por criar soluções eficientes, escaláveis e robustas. Meu foco está em construir aplicações que fazem a diferença, utilizando as melhores práticas e tecnologias modernas. Além disso, sou amante de gatinhos 🐱, o que sempre traz um toque especial ao meu dia a dia!
 
-## 🕰️ Minha Trajetória
+---
 
-- **2023** - Desenvolvedora Back-End na Tizza Tecnologia
-- **2023** - Concluí o curso de Desenvolvimento Full-Stack na Trybe
-- **2022** - Iniciei o curso de Desenvolvimento Full-Stack na Trybe
+## 🛠️ **Minhas Habilidades Técnicas**
+- **Linguagens:** JavaScript (ES6+), TypeScript, Python, C#, Java
+- **Back-End:** Node.js, Express.js, Sequelize, MongoDB, MySQL
+- **DevOps:** Docker, CI/CD
+- **Outras Tecnologias:** GraphQL (aprendendo), Microservices
+- **Ferramentas:** Git, VS Code, Postman
 
-### ⚡ GitHub Stats
- <div>
+---
+
+## 🌟 **Minha Trajetória**
+- **2023 - Presente:** Desenvolvedora Back-End na Tizza Tecnologia 🚀
+- **2023:** Concluí o curso de Desenvolvimento Full-Stack na Trybe 🎓
+- **2022:** Iniciei minha jornada de aprendizado em Desenvolvimento Full-Stack na Trybe 💡
+
+---
+
+## 📊 **Estatísticas do GitHub**
+<div>
   <a href="https://github.com/rita-moura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita-moura&layout=compact&langs_count=6&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rita-moura&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rita's GitHub stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita-moura&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
+  </a>
 </div>
 
-### 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-</div>
+---
 
+## 🐾 **Um Pouco Sobre Mim**
+Além de ser apaixonada por tecnologia, sou uma grande fã dos nossos amigos felinos! 🐱 Eles são minha inspiração para manter a calma e a curiosidade em tudo o que faço. Aqui está um gatinho para alegrar seu dia:
 
-### 🌱 Atualmente Aprendendo
+![Cat GIF](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+---
+
+## 🌱 **Atualmente Aprendendo**
+Estou sempre buscando expandir meus conhecimentos. Atualmente estou estudando:
 - GraphQL
-- NextJs
-- Microservices
-  
+- Next.js
+- Arquitetura de Microservices
+- Cibersegurança
 
-### 📫 Como me encontrar
+---
+
+## 📫 **Como Me Encontrar**
 <div> 
   <a href="mailto:seu-email@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23E4405F?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -50,3 +55,8 @@ Sou apaixonada por tecnologia e desenvolvimento de soluções eficientes. Tenho 
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
+---
+
+## 💡 **Curiosidade**
+Sabia que os gatos dormem cerca de 70% das suas vidas? Assim como eles, acredito que o descanso é essencial para recarregar as energias e continuar criando coisas incríveis! 😺
