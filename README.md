@@ -1,9 +1,6 @@
 # Olá, eu sou a Rita 😊
 ## Desenvolvedora Back-End
 
-<div>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
-</div>
 Sou apaixonada por tecnologia e desenvolvimento de soluções eficientes. Tenho experiência em desenvolvimento back-end com Node.js, e gosto de trabalhar com diferentes tecnologias e ferramentas para criar aplicações robustas e escaláveis.
 
 ## 🕰️ Minha Trajetória
