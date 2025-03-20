@@ -40,7 +40,7 @@ Além de ser apaixonada por tecnologia, sou uma grande fã dos nossos amigos fel
 ## 🌱 **Atualmente Aprendendo**
 Estou sempre buscando expandir meus conhecimentos. Atualmente estou estudando:
 - GraphQL
-- Next.js
+- NestJS
 - Arquitetura de Microservices
 - Cibersegurança
 
