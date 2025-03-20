@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Rita! 🐾
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Olá,+eu+sou+a+Rita+🐾)](https://git.io/typing-svg)
 
 Sou uma **Desenvolvedora Back-End** apaixonada por criar soluções eficientes, escaláveis e robustas. Meu foco está em construir aplicações que fazem a diferença, utilizando as melhores práticas e tecnologias modernas. Além disso, sou amante de gatinhos 🐱, o que sempre traz um toque especial ao meu dia a dia!
 
