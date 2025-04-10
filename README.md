@@ -27,6 +27,26 @@ Além de ser apaixonada por tecnologia, sou uma grande fã dos nossos amigos fel
 
 ---
 
+## 🚀 **Habilidades**
+### Linguagens e Ferramentas:
+<div align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Python-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Java-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-C#-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="C#"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-PHP-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="PHP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Laravel-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Laravel"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-NestJS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NestJS"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GraphQL-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="GraphQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="MongoDB"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/-MySQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="MySQL"/></a>
+</div>
+
+---
+
 ## 🌱 **Atualmente Aprendendo**
 Estou sempre buscando expandir meus conhecimentos. Atualmente estou estudando:
 - GraphQL
