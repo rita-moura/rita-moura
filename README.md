@@ -4,9 +4,10 @@ Sou **Desenvolvedora Back-End** apaixonada por criar soluções eficientes, esca
 
 ---
 
-<div>
+## 📊 **Estatísticas do GitHub**
+<div align="center">
   <a href="https://github.com/rita-moura">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rita-moura&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rita's GitHub stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rita-moura&show_icons=true&theme=radical" alt="GitHub Stats"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita-moura&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
   </a>
 </div>
@@ -29,21 +30,18 @@ Além de ser apaixonada por tecnologia, sou uma grande fã dos nossos amigos fel
 
 ## 🚀 **Habilidades**
 ### Linguagens e Ferramentas:
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Python-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Java-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-C#-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="C#"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-PHP-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="PHP"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Laravel-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Laravel"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-NestJS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NestJS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GraphQL-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="GraphQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="MongoDB"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-MySQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="MySQL"/></a>
-</div>
+<div style="display: inline_block"><br>
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+    <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+    <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+    <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+ </div>
+ 
 
 ---
 
@@ -51,8 +49,8 @@ Além de ser apaixonada por tecnologia, sou uma grande fã dos nossos amigos fel
 Estou sempre buscando expandir meus conhecimentos. Atualmente estou estudando:
 - GraphQL
 - NestJS
-- Arquitetura de Microservices
 - Cibersegurança
+- IA Generativa com Python
 
 ---
 
