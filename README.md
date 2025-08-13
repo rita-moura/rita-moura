@@ -1,10 +1,6 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Olá,+meu+nome+é+Rita" alt="Typing SVG" /></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Olá,+meu+nome+é+Rita)](https://git.io/typing-svg)
 
-<p align="center">
   Sou uma **Desenvolvedora Back-End** apaixonada por criar soluções eficientes, escaláveis e robustas. Meu foco está em construir aplicações que fazem a diferença, utilizando as melhores práticas e tecnologias modernas.
-</p>
 
 ---
 
