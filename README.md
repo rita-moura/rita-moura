@@ -10,12 +10,6 @@
 - 🎓 **2023:** Concluí o curso de Desenvolvimento Full-Stack na Trybe.
 - 💡 **2022:** Iniciei minha jornada de aprendizado em Desenvolvimento Full-Stack na Trybe.
 
-Além de ser apaixonada por tecnologia, sou uma grande fã dos nossos amigos felinos! 🐱 Eles são minha inspiração para manter a calma e a curiosidade em tudo o que faço.
-
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" alt="Cat GIF"/>
-</div>
-
 ---
 
 ## 🚀 Habilidades
