@@ -38,17 +38,6 @@ Estou sempre buscando expandir meus conhecimentos. Atualmente estou focada em:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/rita-moura">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rita-moura&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rita-moura&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
-  </a>
-</div>
-
----
-
 ## 📫 Como Me Encontrar
 
 <div align="center"> 
