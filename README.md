@@ -14,19 +14,17 @@
 
 ## 🚀 Habilidades
 
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40">
+</p>
 
 ---
 
