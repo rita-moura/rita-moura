@@ -6,7 +6,8 @@
 
 ## 🌟 Sobre Mim
 
-- 🚀 **2023 - Presente:** Desenvolvedora Back-End na Tizza Tecnologia.
+- 🚀 **2025 - Presente:** Desenvolvedora FullStack na Axoma.
+- 🚀 **2023 - Presente** Desenvolvedora BackEnd na Tizza Tecnologia.
 - 🎓 **2023:** Concluí o curso de Desenvolvimento Full-Stack na Trybe.
 - 💡 **2022:** Iniciei minha jornada de aprendizado em Desenvolvimento Full-Stack na Trybe.
 
