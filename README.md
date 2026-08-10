@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=👋+Olá,+meu+nome+é+Rita)](https://git.io/typing-svg)
 
-  Sou uma **Desenvolvedora Back-End** apaixonada por criar soluções eficientes, escaláveis e robustas. Meu foco está em construir aplicações que fazem a diferença, utilizando as melhores práticas e tecnologias modernas.
+Desenvolvedora Full Stack com sólida experiência na construção e manutenção de aplicações escaláveis, atuando de ponta a ponta (End-to-End).
+
+Tenho foco em performance, automação, confiabilidade e qualidade de software, conectando decisões técnicas a ganhos concretos para o produto e para o negócio.
+
+Ao longo da minha trajetória, venho me especializando em identificar gargalos de performance e operação, propondo soluções que melhoram a experiência do usuário, reduzem trabalho manual e aumentam a eficiência dos processos de desenvolvimento.
 
 ---
 
