@@ -11,7 +11,7 @@ Ao longo da minha trajetória, venho me especializando em identificar gargalos d
 ## 🌟 Sobre Mim
 
 - 🚀 **2025 - Presente:** Desenvolvedora FullStack Pleno na Axoma.
-- 🚀 **2023 - Presente:** Desenvolvedora Fullstack Pleno na Tizza Tecnologia.
+- 🚀 **2023 - 2026** Desenvolvedora Fullstack Pleno na Tizza Tecnologia.
 - 🎓 **2023:** Concluí o curso de Desenvolvimento Full-Stack na Trybe.
 - 💡 **2022:** Iniciei minha jornada de aprendizado em Desenvolvimento Full-Stack na Trybe.
 
